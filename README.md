@@ -1,2 +1,1 @@
-# dayzmodscom.github.io
-DayZ Mods
+# dayzmods.com
